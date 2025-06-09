@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoListApp</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="set_date">Set Date</string>
+    <string name="set_time">Set Time</string>
+    <string name="no_tasks">No Tasks</string>
+    <string name="add_task_image_description">Add task image</string>
+</resources>
