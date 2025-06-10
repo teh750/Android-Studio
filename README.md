@@ -1,3 +1,2 @@
-# This is my Mobile Development course Project
-
-this project is Task Reminder app with alarm fuction and its done in Android Studio IDE with Kotlin language.
+# Task Reminder – Mobile Development Project
+This is a individual project developed during my Mobile Development subject for the Diploma in Information Technology course. The project is a Task-Reminder system application. The app was built using Android Studio IDE and Kotlin.
